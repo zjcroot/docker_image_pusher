@@ -1,8 +1,1 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
-mysql:8.0
-redis
-golang:1.20-alpine
-python:3-slim
-prom/alertmanager
+openjdk:8-jre
