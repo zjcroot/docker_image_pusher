@@ -1,3 +1,1 @@
-mongo:5.0.18
-zookeeper:3.4.12
-redis:6
+mybook/zabbix-exporter:latest
