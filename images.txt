@@ -1,1 +1,3 @@
-mybook/zabbix-exporter:latest
+apache/skywalking-oap-server:latest
+apache/skywalking-ui:latest
+docker.elastic.co/elasticsearch/elasticsearch:latest
