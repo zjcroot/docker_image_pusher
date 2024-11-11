@@ -1,2 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.3.0
-docker.elastic.co/kibana/kibana:7.3.0
+prom/mysqld-exporter
