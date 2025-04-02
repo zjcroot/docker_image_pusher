@@ -1,2 +1,1 @@
-quay.io/prometheus/node-exporter
-google/cadvisor:latest
+grafana/grafana
