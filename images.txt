@@ -1,1 +1,2 @@
-grafana/grafana
+postgres:15.4
+redis:7.2.4
