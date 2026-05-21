@@ -1,1 +1,1 @@
-rancher/rancher:stable
+registry.cn-hangzhou.aliyuncs.com/rancher/rancher:v2.4.2
