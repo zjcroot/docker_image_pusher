@@ -1,1 +1,3 @@
-bitnami/wordpress
+grafana/loki:2.9.8
+grafana/promtail:2.9.8
+grafana/grafana:10.4.2
