@@ -1,10 +1,7 @@
-milvusdb/milvus-operator:v1.3.11
-milvusdb/milvus:v2.6.25
-milvusdb/etcd:3.5.25-r1
-quay.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
 apachepulsar/pulsar:3.0.7
 quay.io/jetstack/cert-manager-controller:v1.15.2
 quay.io/jetstack/cert-manager-webhook:v1.15.2
 quay.io/jetstack/cert-manager-cainjector:v1.15.2
 milvusdb/meta-migration:v2.2.0-bugfix-20230112
 quay.io/jetstack/cert-manager-acmesolver:v1.15.2
+quay.io/minio/minio:RELEASE.2024-12-18T13-15-44Z
