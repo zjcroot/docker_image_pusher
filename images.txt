@@ -1,1 +1,2 @@
-docker.elastic.co/beats/filebeat:7.17.16
+node:22-alpine 
+nginx:alpine  
