@@ -1,2 +1,1 @@
-ghcr.io/astral-sh/uv:python3.13-alpine
-docker.io/library/python:3.13-alpine
+kube-vip:v0.7.2
