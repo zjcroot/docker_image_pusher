@@ -1,3 +1,2 @@
-ghcr.m.daocloud.io/astral-sh/uv:python3.13-alpine
-docker.m.daocloud.io/library/python:3.13-alpine
-
+ghcr.io/astral-sh/uv:python3.13-alpine
+docker.io/library/python:3.13-alpine
